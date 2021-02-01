@@ -15,8 +15,7 @@ O Ómiros férete os o dimiurgós tu piitikú érgu tis Iliádas, apó ta próta
 
 How to use:
 
-1) Clone the code to your computer
-2) Create the file 'GreekText.txt' in the folder where Main.py is located.
-3) Copy-paste the Greek text into 'GreekText.txt' and save.
-4) Run the code.
-5) The code will overwrite 'GreekText.txt' with a Romanized version of the Greek text. 
+1) Clone the code to your computer.
+2) Copy-paste the Greek text you want to romanize into 'GreekText.txt' and save.
+3) Run the code.
+4) The code will overwrite 'GreekText.txt' with a romanized version of the Greek text you copy-pasted into it.  
