@@ -1,5 +1,5 @@
 #coding: utf-8 -*-
-import readline #aby raw_input mohol zobrat vacsi text.
+import readline #allows for raw_input to handle larger texts
 
 text = raw_input('Input Greek Text: ')
 
